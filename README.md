@@ -1,6 +1,6 @@
-# Webpack Starter
+# Webpack 4 Starter Kit
 
-Using webpack to bundle all .js files and all .css files into two seperate files. Compiles new ES features with babel and its transformation runtime plugin.
+Using webpack 4 to bundle all .js files and all .css files into two seperate files. Compiles new ES features with babel and its transformation runtime plugin.
 
 ### Version
 1.0.0
